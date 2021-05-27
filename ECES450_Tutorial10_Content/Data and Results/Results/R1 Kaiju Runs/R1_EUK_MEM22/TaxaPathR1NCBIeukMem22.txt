@@ -1,0 +1,24 @@
+188	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae
+89	root	cellular organisms	Bacteria
+13	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli DEC2C
+11	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli
+10	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli P0304816.11
+9	root	cellular organisms	Bacteria	Proteobacteria
+6	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria
+3	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales
+2	root	Viruses	dsDNA viruses, no RNA stage	Caudovirales	Siphoviridae	Tunavirinae	T1virus	Escherichia virus T1
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Pleosporomycetidae	Pleosporales	Massarineae	Didymosphaeriaceae	Paraphaeosphaeria	Paraphaeosphaeria sporulosa
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus thermophilus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pneumoniae
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium aurum
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	unclassified Corynebacteriales	Lawsonella	Lawsonella clevelandensis
+1	root	cellular organisms	Bacteria	Terrabacteria group
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella sonnei
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli O157	Escherichia coli 95.0083
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Buttiauxella
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Delftia
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Elstera	Elstera litoralis
+1	root	cellular organisms	Bacteria	PVC group	Planctomycetes	Planctomycetia	Planctomycetales	Gemmataceae	Gemmata	Gemmata sp. SH-PL17
+1	root	cellular organisms
+18408	Unclassified

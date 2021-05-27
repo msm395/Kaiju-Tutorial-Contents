@@ -1,0 +1,36 @@
+Preset Option Runs:
+
+1. R1 REFSEQ MEM 11: 11:53 AM -> 4:51 PM
+2. R1 NCBIeuk MEM 11: 8:52 AM -> 11:55 AM
+3. NCBI NCBIeuk Greedy 75,5: 8:55 PM -> 10:59 PM
+4. R1 Refseq Greedy 75,5: 12:48 PM -> 2:55 PM
+5. R1 RefSeq Greedy 75,5 (mem = 7)Test 8:39 AM -> 12:14 PM
+
+Preset OPtion Run (Filter Off):
+
+1: R1 RefSeq MEm 11: 9:54 PM ->
+
+MEM Set to 22:
+
+1. R1 Refseq MEM 22: 8:14 PM -> 8:18 PM
+2. R1 EUK MEM 22 7:04 PM -> 7:23 PM
+
+MEM Set to 7:
+
+1. R1 Refseq MEM 7: 12:21 AM -> 12:25 AM
+2. R1 EUK MEM 7: 6:15 PM -> 6:32 PM
+
+Greedy Set to (38 for score and 5 for mismatches)
+
+1. R1 REFSEQ 7:21 PM -> 7:23 PM
+2. R1 EUK 8:12 PM -> 8:23 PM
+
+Greedy Set to (38 for score and 1 for mismatches)
+
+1. R1 EUK 11:23 AM -> 12:25 PM
+2. R1 RefSeq 8:38 AM -> 12:13 PM
+
+Greedy Set to (75 and 1 for mismatches)
+
+1. R1 REFSEQ 10:25 AM -> 12:35 PM
+2. R1 EUK 9:51 PM -> 10:00 PM

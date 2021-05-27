@@ -1,0 +1,914 @@
+262	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae
+147	root	cellular organisms	Bacteria
+95	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli
+56	root	cellular organisms
+37	root	cellular organisms	Bacteria	Proteobacteria
+25	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli DEC2C
+20	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales
+14	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella sonnei
+12	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli P0304816.11
+10	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria
+9	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces
+9	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria
+8	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales
+8	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas
+6	root	cellular organisms	Bacteria	Terrabacteria group
+6	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella flexneri	Shigella flexneri K-304
+6	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica
+5	root
+4	root	cellular organisms	Eukaryota	Alveolata	Ciliophora	Intramacronucleata	Oligohymenophorea	Peniculida	Parameciidae	Paramecium	Paramecium tetraurelia
+4	root	cellular organisms	Eukaryota
+4	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus
+4	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes
+3	root	cellular organisms	Eukaryota	Stramenopiles	Oomycetes	Saprolegniales	Saprolegniaceae	Achlya	Achlya hypogyna
+3	root	cellular organisms	Eukaryota	Rhizaria	Foraminifera	Monothalamids	Reticulomyxidae	Reticulomyxa	Reticulomyxa filosa
+3	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Agaricales	Omphalotaceae	Gymnopus	Gymnopus luxurians	Gymnopus luxurians FD-317 M1
+3	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetes incertae sedis	Cantharellales	Botryobasidiaceae	Botryobasidium	Botryobasidium botryosum	Botryobasidium botryosum FD-172 SS1
+3	root	cellular organisms	Eukaryota	Opisthokonta	Fungi
+3	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium
+3	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella flexneri
+3	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica serovar Typhi
+3	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli UMEA 3609-1
+3	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli O157	Escherichia coli 95.0083
+3	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas luteoviolacea
+3	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Hydrogenophilales	Hydrogenophilaceae	Thiobacillus
+3	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia
+2	root	cellular organisms	Eukaryota	Viridiplantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Chlorellaceae	Chlorella	Chlorella variabilis
+2	root	cellular organisms	Eukaryota	Stramenopiles	Oomycetes	Saprolegniales	Saprolegniaceae	Aphanomyces	Aphanomyces invadans
+2	root	cellular organisms	Eukaryota	Stramenopiles	Oomycetes	Peronosporales	Phytophthora
+2	root	cellular organisms	Eukaryota	Parabasalia	Tritrichomonadida	Tritrichomonadidae	Tritrichomonas	Tritrichomonas foetus
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Mucoromycota	Mortierellomycotina	Mortierellales	Mortierellaceae	Mortierella	Mortierella elongata	Mortierella elongata AG-77
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Mucoromycota	Glomeromycotina	Glomeromycetes	Glomerales	Glomeraceae	Rhizophagus	Rhizophagus irregularis	Rhizophagus irregularis DAOM 181602
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Boletales	Sclerodermatineae	Sclerodermataceae	Scleroderma	Scleroderma citrinum	Scleroderma citrinum Foug A
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Amylocorticiales	Amylocorticiaceae	Plicaturopsis	Plicaturopsis crispa	Plicaturopsis crispa FD-325 SS-3
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Agaricales	Tricholomataceae	Mycena	Mycena chlorophos
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Agaricales	Schizophyllaceae	Schizophyllum	Schizophyllum commune	Schizophyllum commune H4-8
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Agaricales	Marasmiaceae	mitosporic Marasmiaceae	Moniliophthora	Moniliophthora roreri
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Agaricales	Lyophyllaceae	Hypsizygus	Hypsizygus marmoreus
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Hypocreales	Clavicipitaceae	Metarhizium	Metarhizium guizhouense	Metarhizium guizhouense ARSEF 977
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Onygenales	Arthrodermataceae	Trichophyton
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Onygenales
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus ruber	Aspergillus ruber CBS 135680
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus nidulans	Aspergillus nidulans FGSC A4
+2	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Blastocladiomycota	Blastocladiomycetes	Blastocladiales	Catenariaceae	Catenaria	Catenaria anguillulae	Catenaria anguillulae PL171
+2	root	cellular organisms	Eukaryota	Haptophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	Chrysochromulina sp. CCMP291
+2	root	cellular organisms	Eukaryota	Amoebozoa	Discosea	Longamoebia	Centramoebida	Acanthamoebidae	Acanthamoeba	Acanthamoeba castellanii	Acanthamoeba castellanii str. Neff
+2	root	cellular organisms	Eukaryota	Amoebozoa	Archamoebae	Entamoebidae	Entamoeba	Entamoeba invadens	Entamoeba invadens IP1
+2	root	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Suessiales	Symbiodiniaceae	Symbiodinium	Symbiodinium microadriaticum
+2	root	cellular organisms	Eukaryota	Alveolata	Ciliophora	Intramacronucleata	Spirotrichea	Stichotrichia	Sporadotrichida	Oxytrichidae	Stylonychinae	Stylonychia	Stylonychia lemnae
+2	root	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium ovale	Plasmodium ovale wallikeri
+2	root	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium ovale	Plasmodium ovale curtisi
+2	root	cellular organisms	Bacteria	unclassified Bacteria	Bacteria candidate phyla	Patescibacteria group	Parcubacteria group	Candidatus Magasanikbacteria
+2	root	cellular organisms	Bacteria	environmental samples	uncultured bacterium
+2	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Negativicutes	Acidaminococcales	Acidaminococcaceae	Acidaminococcus
+2	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus
+2	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus
+2	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus oceanisediminis
+2	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus
+2	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes
+2	root	cellular organisms	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	Cyanobacteria	Synechococcales	Prochloraceae	Prochlorococcus	Prochlorococcus marinus
+2	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Nonomuraea	Nonomuraea candida
+2	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Actinoplanes	Actinoplanes sp. SE50/110
+2	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter
+2	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus
+2	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium tuberculosis complex	Mycobacterium tuberculosis
+2	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium pseudolongum
+2	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	unclassified Deltaproteobacteria	Candidatus Desulfamplus	Candidatus Desulfamplus magnetomortis
+2	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Myxococcales	Sorangiineae	Polyangiaceae	Chondromyces	Chondromyces crocatus
+2	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio
+2	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Bdellovibrionales	unclassified Bdellovibrionales
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas syringae group	Pseudomonas syringae group genomosp. 3
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas syringae group	Pseudomonas syringae group genomosp. 1	Pseudomonas syringae
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas syringae group
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter gandensis
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus haemoglobinophilus
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylobacter
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella boydii
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia albertii
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae complex	Enterobacter cloacae
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter
+2	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Rheinheimera	Rheinheimera sp. KL1
+2	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	unclassified Betaproteobacteria	unclassified Betaproteobacteria (miscellaneous)	Betaproteobacteria bacterium RIFCSPLOWO2_12_FULL_63_13
+2	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia solanacearum
+2	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus
+2	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Caballeronia	Caballeronia sordidicola
+2	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae
+2	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Phaeobacter
+2	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium
+2	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	unclassified Bacteroidetes	unclassified Bacteroidetes (miscellaneous)
+2	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Parapedobacter	Parapedobacter koreensis
+2	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Saprospiria	Saprospirales	Lewinellaceae	Lewinella	Lewinella cohaerens
+2	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella
+2	root	cellular organisms	Archaea	Euryarchaeota	Halobacteria	Natrialbales	Natrialbaceae
+2	root	cellular organisms	Archaea	DPANN group	Candidatus Micrarchaeota	unclassified Candidatus Micrarchaeota	Candidatus Micrarchaeota archaeon CG1_02_55_22
+2	root	Viruses	dsDNA viruses, no RNA stage	Caudovirales	Siphoviridae	Tunavirinae	T1virus	Escherichia virus T1
+1	root	cellular organisms	Eukaryota	Viridiplantae	Chlorophyta	prasinophytes	Mamiellophyceae	Mamiellales	Bathycoccaceae	Ostreococcus	Ostreococcus 'lucimarinus'	Ostreococcus lucimarinus CCE9901
+1	root	cellular organisms	Eukaryota	Viridiplantae	Chlorophyta	prasinophytes	Mamiellophyceae	Mamiellales	Bathycoccaceae	Bathycoccus	Bathycoccus prasinos
+1	root	cellular organisms	Eukaryota	Viridiplantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Volvocaceae	Volvox	Volvox carteri	Volvox carteri f. nagariensis
+1	root	cellular organisms	Eukaryota	Viridiplantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Chlamydomonas	Chlamydomonas reinhardtii
+1	root	cellular organisms	Eukaryota	Stramenopiles	Pelagophyceae	Pelagomonadales	Aureococcus	Aureococcus anophagefferens
+1	root	cellular organisms	Eukaryota	Stramenopiles	Oomycetes	Saprolegniales	Saprolegniaceae
+1	root	cellular organisms	Eukaryota	Stramenopiles	Oomycetes	Peronosporales	Phytophthora	Phytophthora sojae
+1	root	cellular organisms	Eukaryota	Stramenopiles	Oomycetes	Peronosporales	Phytophthora	Phytophthora parasitica	Phytophthora parasitica INRA-310
+1	root	cellular organisms	Eukaryota	Stramenopiles	Oomycetes	Albuginales	Albuginaceae	Albugo	Albugo laibachii	Albugo laibachii Nc14
+1	root	cellular organisms	Eukaryota	Stramenopiles	Bacillariophyta	Bacillariophyceae	Bacillariophycidae	Naviculales	Phaeodactylaceae	Phaeodactylum	Phaeodactylum tricornutum	Phaeodactylum tricornutum CCAP 1055/1
+1	root	cellular organisms	Eukaryota	Stramenopiles	Bacillariophyta	Bacillariophyceae	Bacillariophycidae	Bacillariales	Bacillariaceae	Fragilariopsis	Fragilariopsis cylindrus	Fragilariopsis cylindrus CCMP1102
+1	root	cellular organisms	Eukaryota	Rhodophyta	Florideophyceae	Gigartinales	Gigartinaceae	Chondrus	Chondrus crispus
+1	root	cellular organisms	Eukaryota	Rhodophyta	Bangiophyceae	Cyanidiales	Cyanidiaceae	Cyanidioschyzon	Cyanidioschyzon merolae	Cyanidioschyzon merolae strain 10D
+1	root	cellular organisms	Eukaryota	Parabasalia	Trichomonadida	Trichomonadidae	Trichomonas	Trichomonas vaginalis	Trichomonas vaginalis G3
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Zoopagomycota	Kickxellomycotina	Harpellales	Legeriomycetaceae	Zancudomyces	Zancudomyces culisetae
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Zoopagomycota	Kickxellomycotina	Harpellales	Legeriomycetaceae	Smittium	Smittium culicis
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Neocallimastigomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	Neocallimastix	Neocallimastix californiae
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Mucoromycota	Mucoromycotina	Mucorales	Mucorineae	Mucoraceae	Mucor	Mucor circinelloides	Mucor circinelloides f. circinelloides	Mucor circinelloides f. circinelloides 1006PhL
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Mucoromycota	Mucoromycotina	Mucorales	Mucorineae	Mucoraceae
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Mucoromycota	Mucoromycotina	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Mucoromycota	Mucoromycotina	Mucorales	Cunninghamellaceae	Absidia
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Mucoromycota	Mortierellomycotina	Mortierellales	Mortierellaceae	Mortierella	Mortierella verticillata	Mortierella verticillata NRRL 6337
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Mucoromycota	Mortierellomycotina	Mortierellales	Mortierellaceae	Lobosporangium	Lobosporangium transversale
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Mucoromycota	Glomeromycotina	Glomeromycetes	Glomerales	Glomeraceae	Rhizophagus	Rhizophagus irregularis
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	mitosporic Basidiomycota	Rhodotorula	Rhodotorula sp. JG-1b
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Ustilaginomycotina	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Ustilago	Ustilago maydis	Ustilago maydis 521
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Ustilaginomycotina	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Moesziomyces
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Ustilaginomycotina	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Melanopsichium	Melanopsichium pennsylvanicum	Melanopsichium pennsylvanicum 4
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Ustilaginomycotina	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Anthracocystis	Anthracocystis flocculosa	Anthracocystis flocculosa PF-1
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Ustilaginomycotina	Ustilaginomycetes	Ustilaginales	Ustilaginaceae
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Ustilaginomycotina	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia sympodialis	Malassezia sympodialis ATCC 42132
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Ustilaginomycotina	Exobasidiomycetes	Georgefischeriales	Tilletiariaceae	Tilletiaria	Tilletiaria anomala	Tilletiaria anomala UBC 951
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Ustilaginomycotina	Exobasidiomycetes	Ceraceosorales	Ceraceosoraceae	Ceraceosorus	Ceraceosorus bombacis
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Pucciniomycotina	Pucciniomycetes	Pucciniales	Pucciniaceae	Puccinia	Puccinia triticina	Puccinia triticina 1-1 BBBD Race 1
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Pucciniomycotina	Pucciniomycetes	Pucciniales	Pucciniaceae	Puccinia	Puccinia striiformis	Puccinia striiformis f. sp. tritici	Puccinia striiformis f. sp. tritici PST-78
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Pucciniomycotina	Pucciniomycetes	Pucciniales	Pucciniaceae	Puccinia	Puccinia graminis	Puccinia graminis f. sp. tritici	Puccinia graminis f. sp. tritici CRL 75-36-700-3
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Tremellomycetes	Tremellales	Cryptococcaceae	Kwoniella
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Tremellomycetes	Tremellales	Cryptococcaceae	Cryptococcus	Cryptococcus gattii species complex	Cryptococcus gattii VGII
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Tremellomycetes	Tremellales	Cryptococcaceae
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Phallomycetidae	Geastrales	Sphaerobolaceae	Sphaerobolus	Sphaerobolus stellatus	Sphaerobolus stellatus SS14
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Boletales	Paxilineae	Paxillaceae	Paxillus	Paxillus rubicundulus	Paxillus rubicundulus Ve08.2h10
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Boletales	Paxilineae	Paxillaceae	Paxillus	Paxillus involutus	Paxillus involutus ATCC 200175
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Boletales	Coniophorineae	Serpulaceae	Serpula	Serpula lacrymans	Serpula lacrymans var. lacrymans	Serpula lacrymans var. lacrymans S7.3
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Boletales	Coniophorineae	Serpulaceae	Serpula	Serpula lacrymans	Serpula lacrymans var. lacrymans
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Boletales	Coniophorineae	Coniophoraceae	Coniophora	Coniophora puteana	Coniophora puteana RWD-64-598 SS2
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Agaricales	Tricholomataceae	Laccaria	Laccaria bicolor	Laccaria bicolor S238N-H82
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Agaricales	Tricholomataceae	Laccaria	Laccaria amethystina	Laccaria amethystina LaAM-08-1
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Agaricales	Agaricaceae	Agaricus	Agaricus bisporus	Agaricus bisporus var. bisporus	Agaricus bisporus var. bisporus H97
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetidae	Agaricales	Agaricaceae	Agaricus	Agaricus bisporus
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetes incertae sedis	Trechisporales	Hydnodontaceae	Sistotremastrum	Sistotremastrum niveocremeum	Sistotremastrum niveocremeum HHB9708
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetes incertae sedis	Russulales	Peniophoraceae	Peniophora	Peniophora sp. CONT
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetes incertae sedis	Polyporales	Meruliaceae	Phlebia	Phlebia centrifuga
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetes incertae sedis	Polyporales	Coriolaceae	Gelatoporia	Gelatoporia subvermispora	Gelatoporia subvermispora B
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetes incertae sedis	Hymenochaetales	Hymenochaetaceae	Fomitiporia	Fomitiporia mediterranea	Fomitiporia mediterranea MF3/22
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetes incertae sedis	Cantharellales	Tulasnellaceae	Tulasnella	Tulasnella calospora	Tulasnella calospora MUT 4182
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetes incertae sedis	Cantharellales	Ceratobasidiaceae	Rhizoctonia	Rhizoctonia solani	Rhizoctonia solani AG-1 IB
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetes incertae sedis	Cantharellales	Ceratobasidiaceae	Rhizoctonia	Rhizoctonia solani
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetes incertae sedis	Auriculariales	Exidiaceae	Exidia	Exidia glandulosa	Exidia glandulosa HHB12029
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Basidiomycota	Agaricomycotina	Agaricomycetes	Agaricomycetes incertae sedis	Auriculariales	Auriculariaceae	Auricularia	Auricularia subglabra	Auricularia subglabra TFB-10046 SS5
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Saccharomycotina	Saccharomycetes	Saccharomycetales	Trigonopsidaceae	Tortispora	Tortispora caseinolytica	Tortispora caseinolytica NRRL Y-17796
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Saccharomycotina	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Lachancea	Lachancea nothofagi	Lachancea nothofagi CBS 11611
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Saccharomycotina	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Wickerhamomyces	Wickerhamomyces ciferrii
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Saccharomycotina	Saccharomycetes	Saccharomycetales	Lipomycetaceae	Lipomyces	Lipomyces starkeyi	Lipomyces starkeyi NRRL Y-11557
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Saccharomycotina	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Millerozyma	Millerozyma farinosa
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Saccharomycotina	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces fabryi
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Saccharomycotina	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida/Lodderomyces clade	Lodderomyces	Lodderomyces elongisporus	Lodderomyces elongisporus NRRL YB-4239
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Saccharomycotina	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida/Lodderomyces clade	Candida	Candida dubliniensis	Candida dubliniensis CD36
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Saccharomycotina	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida/Lodderomyces clade	Candida
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Saccharomycotina	Saccharomycetes	Saccharomycetales	Ascoideaceae	Ascoidea	Ascoidea rubescens	Ascoidea rubescens DSM 1968
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Xylariomycetidae	Xylariales	Xylariaceae	Rosellinia	Rosellinia necatrix
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Xylariomycetidae	Xylariales	Xylariaceae	Hypoxylon	Hypoxylon sp. EC38
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Xylariomycetidae	Xylariales	Xylariaceae	Daldinia	Daldinia sp. EC12
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Xylariomycetidae	Xylariales	Pseudomassariaceae	Pseudomassariella	Pseudomassariella vexata
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Xylariomycetidae	Xylariales	Microdochiaceae	Microdochium	Microdochium bolleyi
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Xylariomycetidae	Xylariales	Diatrypaceae	Eutypa	Eutypa lata	Eutypa lata UCREL1
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Sordariomycetidae	Sordariales	Sordariales incertae sedis	Madurella	Madurella mycetomatis
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Sordariomycetidae	Sordariales	Sordariaceae	Neurospora	Neurospora crassa
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Sordariomycetidae	Sordariales	Chaetomiaceae	Thermothelomyces	Thermothelomyces thermophila	Thermothelomyces thermophila ATCC 42464
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Sordariomycetidae	Magnaporthales	Magnaporthaceae	Magnaporthe	Magnaporthe oryzae
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Sordariomycetidae	Coniochaetales	Coniochaetaceae	Coniochaeta	Coniochaeta ligniaria	Coniochaeta ligniaria NRRL 30616
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Hypocreales	Stachybotryaceae	Stachybotrys
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Hypocreales	Ophiocordycipitaceae	Ophiocordyceps	Ophiocordyceps unilateralis
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Hypocreales	Nectriaceae	Fusarium	Fusarium tricinctum species complex	Fusarium avenaceum
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Hypocreales	Nectriaceae	Fusarium	Fusarium fujikuroi species complex	Fusarium verticillioides	Fusarium verticillioides 7600
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Hypocreales	Nectriaceae	Fusarium	Fusarium fujikuroi species complex	Fusarium proliferatum
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Hypocreales	Hypocreaceae	Trichoderma	Trichoderma virens	Trichoderma virens Gv29-8
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Hypocreales	Cordycipitaceae	Cordyceps	Cordyceps militaris	Cordyceps militaris CM01
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Hypocreales	Clavicipitaceae	Pochonia	Pochonia chlamydosporia	Pochonia chlamydosporia 170
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Hypocreales	Clavicipitaceae	Moelleriella	Moelleriella libera	Aschersonia aleyrodis RCEF 2490
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Hypocreales	Clavicipitaceae	Metarhizium	Metarhizium brunneum	Metarhizium brunneum ARSEF 3297
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Hypocreales
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Glomerellales	Glomerellaceae	Colletotrichum	Colletotrichum sublineola
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Glomerellales	Glomerellaceae	Colletotrichum	Colletotrichum incanum
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Glomerellales	Glomerellaceae	Colletotrichum	Colletotrichum gloeosporioides	Colletotrichum gloeosporioides Nara gc5
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Sordariomycetes	Hypocreomycetidae	Glomerellales	Glomerellaceae	Colletotrichum
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Leotiomycetes	Leotiomycetes incertae sedis	Pseudeurotiaceae	Pseudogymnoascus	Pseudogymnoascus sp. VKM F-4518 (FW-2643)
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Leotiomycetes	Leotiomycetes incertae sedis	Pseudeurotiaceae	Pseudogymnoascus	Pseudogymnoascus sp. VKM F-4281 (FW-2241)
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Leotiomycetes	Leotiomycetes incertae sedis	Pseudeurotiaceae	Pseudogymnoascus
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Leotiomycetes	Leotiomycetes incertae sedis	Myxotrichaceae	Oidiodendron	Oidiodendron maius	Oidiodendron maius Zn
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Leotiomycetes	Helotiales	Sclerotiniaceae	Sclerotinia	Sclerotinia sclerotiorum	Sclerotinia sclerotiorum 1980 UF-70
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Leotiomycetes	Helotiales	Sclerotiniaceae	Botrytis	Botrytis cinerea	Botrytis cinerea B05.10
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Leotiomycetes	Helotiales	Sclerotiniaceae	Botrytis	Botrytis cinerea
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Leotiomycetes	Helotiales	Helotiales incertae sedis	Phialocephala	Phialocephala scopiformis
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Leotiomycetes	Helotiales	Helotiales incertae sedis	Phialocephala	Phialocephala fortinii species complex	Phialocephala subalpina
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	sordariomyceta	Leotiomycetes	Helotiales	Helotiaceae	Glarea	Glarea lozoyensis	Glarea lozoyensis ATCC 20868
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Pleosporomycetidae	Pleosporales	Pleosporineae	Pleosporaceae	Stemphylium	Stemphylium lycopersici
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Pleosporomycetidae	Pleosporales	Pleosporineae	Pleosporaceae	Pyrenophora	Pyrenophora tritici-repentis	Pyrenophora tritici-repentis Pt-1C-BFP
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Pleosporomycetidae	Pleosporales	Pleosporineae	Pleosporaceae	Pyrenophora	Pyrenophora teres	Pyrenophora teres f. teres	Pyrenophora teres f. teres 0-1
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Pleosporomycetidae	Pleosporales	Pleosporineae	Pleosporaceae	Bipolaris	Bipolaris oryzae	Bipolaris oryzae ATCC 44560
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Pleosporomycetidae	Pleosporales	Pleosporineae	Pleosporaceae	Bipolaris
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Pleosporomycetidae	Pleosporales	Pleosporineae	Phaeosphaeriaceae	Parastagonospora	Parastagonospora nodorum	Parastagonospora nodorum SN15
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Pleosporomycetidae	Pleosporales	Pleosporineae	Didymellaceae	Epicoccum	Epicoccum nigrum
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Pleosporomycetidae	Pleosporales	Pleosporineae	Didymellaceae	Ascochyta	Ascochyta rabiei
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Pleosporomycetidae	Pleosporales	Massarineae	Didymosphaeriaceae	Paraphaeosphaeria	Paraphaeosphaeria sporulosa
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Pleosporomycetidae	Pleosporales	Lindgomycetaceae	Clohesyomyces	Clohesyomyces aquaticus
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Pleosporomycetidae	Mytilinidiales	Argynnaceae	Lepidopterella	Lepidopterella palustris	Lepidopterella palustris CBS 459.81
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Dothideomycetidae	Dothideales	Aureobasidiaceae	Aureobasidium	Aureobasidium melanogenum	Aureobasidium melanogenum CBS 110374
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Dothideomycetidae	Capnodiales	Teratosphaeriaceae	Baudoinia	Baudoinia panamericana	Baudoinia panamericana UAMH 10762
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Dothideomycetidae	Capnodiales	Mycosphaerellaceae	Zymoseptoria	Zymoseptoria tritici	Zymoseptoria tritici IPO323
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Dothideomycetidae	Capnodiales	Mycosphaerellaceae	Pseudocercospora	Pseudocercospora musae
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	dothideomyceta	Dothideomycetes	Dothideomycetes incertae sedis	Botryosphaeriales	Botryosphaeriaceae	Diplodia	Diplodia corticola
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Xylonomycetes	Xylonomycetales	Xylonomycetaceae	Xylona	Xylona heveae	Xylona heveae TC161
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Onygenales	Onygenales incertae sedis	Paracoccidioides	Paracoccidioides lutzii	Paracoccidioides lutzii Pb01
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Onygenales	Arthrodermataceae	Nannizzia	Nannizzia gypsea	Nannizzia gypsea CBS 118893
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Onygenales	Ajellomycetaceae	Histoplasma	Histoplasma capsulatum	Histoplasma capsulatum NAm1
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Onygenales	Ajellomycetaceae	Blastomyces	Blastomyces percursus
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces islandicus
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Eurotiales	Aspergillaceae	Penicillium	Penicillium steckii
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Eurotiales	Aspergillaceae	Penicillium	Penicillium antarcticum
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Eurotiales	Aspergillaceae	Penicillium
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus wentii	Aspergillus wentii DTO 134E9
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus versicolor	Aspergillus versicolor CBS 583.65
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus carbonarius	Aspergillus carbonarius ITEM 5010
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Eurotiomycetidae	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus aculeatus	Aspergillus aculeatus ATCC 16872
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Chaetothyriomycetidae	Chaetothyriales	Herpotrichiellaceae	Rhinocladiella	Rhinocladiella mackenziei	Rhinocladiella mackenziei CBS 650.93
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Chaetothyriomycetidae	Chaetothyriales	Herpotrichiellaceae	Fonsecaea	Fonsecaea nubica
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Chaetothyriomycetidae	Chaetothyriales	Herpotrichiellaceae	Exophiala	Exophiala xenobiotica
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Chaetothyriomycetidae	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	Cladophialophora psammophila	Cladophialophora psammophila CBS 110553
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Chaetothyriomycetidae	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	Cladophialophora immunda
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Chaetothyriomycetidae	Chaetothyriales	Herpotrichiellaceae	Cladophialophora	Cladophialophora bantiana	Cladophialophora bantiana CBS 173.52
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta	Eurotiomycetes	Chaetothyriomycetidae	Chaetothyriales	Herpotrichiellaceae	Cladophialophora
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	leotiomyceta
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	saccharomyceta	Pezizomycotina	Orbiliomycetes	Orbiliales	Orbiliaceae	Dactylellina	Dactylellina haptotyla	Dactylellina haptotyla CBS 200.50
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya	Ascomycota	Taphrinomycotina	Pneumocystidomycetes	Pneumocystidales	Pneumocystidaceae	Pneumocystis	Pneumocystis carinii	Pneumocystis carinii B80
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Dikarya
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Chytridiomycota	Monoblepharidomycetes	Monoblepharidales	Gonapodyaceae	Gonapodya	Gonapodya prolifera	Gonapodya prolifera JEL478
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Chytridiomycota	Chytridiomycetes	Spizellomycetales	Spizellomycetaceae	Spizellomyces	Spizellomyces punctatus	Spizellomyces punctatus DAOM BR117
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Chytridiomycota	Chytridiomycetes	Rhizophydiales	Rhizophydiales incertae sedis	Batrachochytrium	Batrachochytrium salamandrivorans
+1	root	cellular organisms	Eukaryota	Opisthokonta	Fungi	Chytridiomycota	Chytridiomycetes	Chytridiales	Chytriomycetaceae	Rhizoclosmatium	Rhizoclosmatium globosum
+1	root	cellular organisms	Eukaryota	Haptophyceae	Isochrysidales	Noelaerhabdaceae	Emiliania	Emiliania huxleyi	Emiliania huxleyi CCMP1516
+1	root	cellular organisms	Eukaryota	Euglenozoa	Kinetoplastida	Trypanosomatidae	Trypanosoma	Trypanozoon	Trypanosoma brucei	Trypanosoma brucei gambiense	Trypanosoma brucei gambiense DAL972
+1	root	cellular organisms	Eukaryota	Euglenozoa	Kinetoplastida	Trypanosomatidae	Trypanosoma	Trypanozoon	Trypanosoma brucei
+1	root	cellular organisms	Eukaryota	Euglenozoa	Kinetoplastida	Trypanosomatidae	Trypanosoma	Trypanosoma with unspecified subgenus	Trypanosoma theileri
+1	root	cellular organisms	Eukaryota	Euglenozoa	Kinetoplastida	Trypanosomatidae	Trypanosoma	Trypanosoma with unspecified subgenus	Trypanosoma grayi
+1	root	cellular organisms	Eukaryota	Euglenozoa	Kinetoplastida	Trypanosomatidae	Trypanosoma	Schizotrypanum	Trypanosoma cruzi	Trypanosoma cruzi marinkellei
+1	root	cellular organisms	Eukaryota	Euglenozoa	Kinetoplastida	Trypanosomatidae	Trypanosoma	Schizotrypanum	Trypanosoma cruzi	Trypanosoma cruzi Dm28c
+1	root	cellular organisms	Eukaryota	Euglenozoa	Kinetoplastida	Trypanosomatidae	Trypanosoma	Schizotrypanum	Trypanosoma cruzi
+1	root	cellular organisms	Eukaryota	Euglenozoa	Kinetoplastida	Trypanosomatidae	Trypanosoma	Nannomonas	Trypanosoma congolense	Trypanosoma congolense IL3000
+1	root	cellular organisms	Eukaryota	Euglenozoa	Kinetoplastida	Trypanosomatidae	Trypanosoma	Duttonella	Trypanosoma vivax	Trypanosoma vivax Y486
+1	root	cellular organisms	Eukaryota	Euglenozoa	Kinetoplastida	Trypanosomatidae	Leishmaniinae	Leptomonas	Leptomonas seymouri
+1	root	cellular organisms	Eukaryota	Euglenozoa	Kinetoplastida	Trypanosomatidae	Leishmaniinae	Leptomonas	Leptomonas pyrrhocoris
+1	root	cellular organisms	Eukaryota	Euglenozoa	Kinetoplastida	Trypanosomatidae	Leishmaniinae	Leishmania	Leishmania	Leishmania mexicana species complex	Leishmania mexicana	Leishmania mexicana MHOM/GT/2001/U1103
+1	root	cellular organisms	Eukaryota	Euglenozoa	Kinetoplastida	Trypanosomatidae	Leishmaniinae	Leishmania	Leishmania
+1	root	cellular organisms	Eukaryota	Euglenozoa	Kinetoplastida	Bodonidae	Bodo	Bodo saltans
+1	root	cellular organisms	Eukaryota	Amoebozoa	Mycetozoa	Dictyosteliida	Polysphondylium	Polysphondylium pallidum	Polysphondylium pallidum PN500
+1	root	cellular organisms	Eukaryota	Amoebozoa	Mycetozoa	Dictyosteliida	Dictyostelium	Dictyostelium fasciculatum
+1	root	cellular organisms	Eukaryota	Amoebozoa	Mycetozoa	Dictyosteliida	Acytostelium	Acytostelium subglobosum	Acytostelium subglobosum LB1
+1	root	cellular organisms	Eukaryota	Amoebozoa	Archamoebae	Entamoebidae	Entamoeba	Entamoeba dispar	Entamoeba dispar SAW760
+1	root	cellular organisms	Eukaryota	Amoebozoa	Archamoebae	Entamoebidae	Entamoeba
+1	root	cellular organisms	Eukaryota	Alveolata	Dinophyceae	Gonyaulacales	Goniodomataceae	Gambierdiscus	Gambierdiscus excentricus
+1	root	cellular organisms	Eukaryota	Alveolata	Ciliophora	Postciliodesmatophora	Heterotrichea	Heterotrichida	Stentoridae	Stentor	Stentor coeruleus
+1	root	cellular organisms	Eukaryota	Alveolata	Ciliophora	Intramacronucleata	Spirotrichea	Stichotrichia	Sporadotrichida	Oxytrichidae	Oxytrichinae	Oxytricha	Oxytricha trifallax
+1	root	cellular organisms	Eukaryota	Alveolata	Chromerida	Vitrella	Vitrella brassicaformis	Vitrella brassicaformis CCMP3155
+1	root	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Sarcocystidae	Neospora	Neospora caninum	Neospora caninum Liverpool
+1	root	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Eimeriidae	Eimeria	Eimeria tenella
+1	root	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Conoidasida	Coccidia	Eucoccidiorida	Eimeriorina	Eimeriidae	Eimeria	Eimeria necatrix
+1	root	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium vivax
+1	root	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium ovale
+1	root	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)	Plasmodium malariae
+1	root	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Plasmodium)
+1	root	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)	Plasmodium falciparum
+1	root	cellular organisms	Eukaryota	Alveolata	Apicomplexa	Aconoidasida	Haemosporida	Plasmodiidae	Plasmodium	Plasmodium (Laverania)
+1	root	cellular organisms	Bacteria	unclassified Bacteria	Candidatus Moduliflexus	Candidatus Moduliflexus flocculans
+1	root	cellular organisms	Bacteria	unclassified Bacteria	Bacteria candidate phyla	candidate division KSB1	unclassified candidate division KSB1	candidate division KSB1 bacterium 4484_87
+1	root	cellular organisms	Bacteria	unclassified Bacteria	Bacteria candidate phyla	Patescibacteria group	Parcubacteria group	unclassified Parcubacteria group	Parcubacteria group bacterium GW2011_GWE1_40_20
+1	root	cellular organisms	Bacteria	unclassified Bacteria	Bacteria candidate phyla	Patescibacteria group	Parcubacteria group	unclassified Parcubacteria group	Parcubacteria group bacterium GW2011_GWA2_53_21
+1	root	cellular organisms	Bacteria	unclassified Bacteria	Bacteria candidate phyla	Patescibacteria group	Parcubacteria group	unclassified Parcubacteria group	Parcubacteria group bacterium GW2011_GWA2_43_17
+1	root	cellular organisms	Bacteria	unclassified Bacteria	Bacteria candidate phyla	Patescibacteria group	Parcubacteria group	unclassified Parcubacteria group
+1	root	cellular organisms	Bacteria	unclassified Bacteria	Bacteria candidate phyla	Patescibacteria group	Parcubacteria group	Candidatus Vogelbacteria	Candidatus Vogelbacteria bacterium RIFOXYD1_FULL_44_32
+1	root	cellular organisms	Bacteria	unclassified Bacteria	Bacteria candidate phyla	Patescibacteria group	Parcubacteria group	Candidatus Taylorbacteria
+1	root	cellular organisms	Bacteria	unclassified Bacteria	Bacteria candidate phyla	Patescibacteria group	Parcubacteria group	Candidatus Magasanikbacteria	Candidatus Magasanikbacteria bacterium GW2011_GWC2_37_14
+1	root	cellular organisms	Bacteria	unclassified Bacteria	Bacteria candidate phyla	Patescibacteria group	Parcubacteria group	Candidatus Jorgensenbacteria
+1	root	cellular organisms	Bacteria	unclassified Bacteria	Bacteria candidate phyla	Patescibacteria group	Parcubacteria group
+1	root	cellular organisms	Bacteria	unclassified Bacteria	Bacteria candidate phyla	Patescibacteria group	Microgenomates group	unclassified Microgenomates group	Microgenomates group bacterium GW2011_GWF2_47_9
+1	root	cellular organisms	Bacteria	unclassified Bacteria	Bacteria candidate phyla	Patescibacteria group	Microgenomates group	Candidatus Curtissbacteria	Candidatus Curtissbacteria bacterium GW2011_GWA1_40_16
+1	root	cellular organisms	Bacteria	unclassified Bacteria	Bacteria candidate phyla	Patescibacteria group	Microgenomates group
+1	root	cellular organisms	Bacteria	Thermotogae	Thermotogae	Thermotogales	Thermotogaceae	Thermotoga	Thermotoga profunda
+1	root	cellular organisms	Bacteria	Thermotogae	Thermotogae	Thermotogales	Fervidobacteriaceae	Fervidobacterium
+1	root	cellular organisms	Bacteria	Thermotogae	Thermotogae	Petrotogales	Petrotogaceae	Marinitoga
+1	root	cellular organisms	Bacteria	Terrabacteria group	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	unclassified Mycoplasmataceae	Mycoplasmataceae bacterium RC_NB112A
+1	root	cellular organisms	Bacteria	Terrabacteria group	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Ureaplasma
+1	root	cellular organisms	Bacteria	Terrabacteria group	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	Mycoplasma cricetuli
+1	root	cellular organisms	Bacteria	Terrabacteria group	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	Mycoplasma canis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Tenericutes	Mollicutes	Entomoplasmatales	Spiroplasmataceae	Spiroplasma	Spiroplasma melliferum
+1	root	cellular organisms	Bacteria	Terrabacteria group	Tenericutes	Mollicutes	Entomoplasmatales	Entomoplasmataceae	Entomoplasma	Entomoplasma lucivorax
+1	root	cellular organisms	Bacteria	Terrabacteria group	Tenericutes	Mollicutes	Acholeplasmatales	Acholeplasmataceae	Candidatus Phytoplasma	16SrXII (Stolbur group)	Candidatus Phytoplasma solani
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	unclassified Veillonellaceae	Veillonellaceae bacterium DNF00626
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Selenomonas	Selenomonas sp. CM52
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Turicibacter
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelatoclostridium	[Clostridium] saccharogumia
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Coprobacillus	environmental samples	Coprobacillus sp. CAG:605
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	unclassified Clostridiales	Flavonifractor	environmental samples	uncultured Flavonifractor sp.
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	unclassified Clostridiales	Flavonifractor	Flavonifractor plautii	Clostridium orbiscindens 1_3_50AFAA
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	environmental samples	Ruminococcus sp. CAG:254
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	[Clostridium] hungatei
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Neglecta	Neglecta timonensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Proteinivoraceae	Anaerobranca	Anaerobranca gottschalkii	Anaerobranca gottschalkii DSM 13577
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Proteinivoraceae	Anaerobranca	Anaerobranca californiensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfurispora	Desulfurispora thermophila
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfotomaculum	Desulfotomaculum copahuensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Desulfosporosinus	Desulfosporosinus sp. BRH_c37
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Dehalobacter	Dehalobacter sp. FTH1
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	[Clostridium] saccharolyticum
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Catonella	Catonella morbi
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Butyrivibrio
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	Blautia sp. Marseille-P3201T
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerocolumna
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Pseudoramibacter	Pseudoramibacter alactolyticus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	environmental samples
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium ruminantium
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Tindallia	Tindallia californiensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	environmental samples	Clostridium sp. CAG:417
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	environmental samples	Clostridium sp. CAG:169
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium tyrobutyricum
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium puniceum
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium ihumii
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium fallax
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Anaerosalibacter	Anaerosalibacter sp. Marseille-P3206
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Clostridiaceae
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	Christensenella	Christensenella minuta
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus thermophilus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp. GMD4S
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pneumoniae
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus dysgalactiae group	Streptococcus dysgalactiae
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus acidominimus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Anthococcus	Anthococcus sp. DF1
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Oenococcus	Oenococcus oeni
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus saniviri
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus hamsteri
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus gigeriorum
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus fabifermentans
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus apis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecium
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Pisciglobus	Pisciglobus halotolerans
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae	Seinonella	Seinonella peptonophila
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae	Melghirimyces	Melghirimyces thermohalophilus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus vitulinus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus auricularis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Macrococcus	Macrococcus canis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Sporolactobacillaceae	unclassified Sporolactobacillaceae	[Bacillus] selenitireducens
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Planococcaceae	Sporosarcina
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Planococcaceae	Bhargavaea	Bhargavaea cecembensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Saccharibacillus	Saccharibacillus sacchari
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus sp. GP183
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus sp. FSL R7-0273
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus sp. FJAT-26967
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus sp. FF9
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus polymyxa
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus pinihumi
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus forsythiae
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus ehimensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria grayi
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Salimicrobium	Salimicrobium album
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Pontibacillus	Pontibacillus yanchengensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Gracilibacillus	Gracilibacillus ureilyticus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Domibacillus	Domibacillus robiginosus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus tuaregi
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus timonensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus sp. J37
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus simplex
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus selenatarsenatis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus pseudalcaliphilus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus patagoniensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus fumarioli
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus cereus group	Bacillus thuringiensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Anoxybacillus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae	Anaerobacillus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Bacillaceae
+1	root	cellular organisms	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Bacillales	Alicyclobacillaceae	Alicyclobacillus	Alicyclobacillus acidoterrestris
+1	root	cellular organisms	Bacteria	Terrabacteria group	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	Deinococcus soli Cha et al. 2016
+1	root	cellular organisms	Bacteria	Terrabacteria group	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	Deinococcus proteolyticus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	Deinococcus marmoris
+1	root	cellular organisms	Bacteria	Terrabacteria group	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	Cyanobacteria	Synechococcales	Pseudanabaenaceae	Prochlorothrix	Prochlorothrix hollandica
+1	root	cellular organisms	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	Cyanobacteria	Synechococcales	Merismopediaceae	Synechocystis	Synechocystis sp. PCC 7509
+1	root	cellular organisms	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	Cyanobacteria	Synechococcales	Leptolyngbyaceae	Neosynechococcus	Neosynechococcus sphagnicola
+1	root	cellular organisms	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	Cyanobacteria	Oscillatoriophycideae	Oscillatoriales	Oscillatoriaceae	Oscillatoria	Oscillatoria sp. PCC 10802
+1	root	cellular organisms	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	Cyanobacteria	Oscillatoriophycideae	Oscillatoriales	Microcoleaceae	Planktothrix	Planktothrix serta
+1	root	cellular organisms	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	Cyanobacteria	Oscillatoriophycideae	Oscillatoriales	Microcoleaceae	Arthrospira
+1	root	cellular organisms	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	Cyanobacteria	Nostocales	Rivulariaceae	Calothrix	Calothrix sp. HK-06
+1	root	cellular organisms	Bacteria	Terrabacteria group	Cyanobacteria/Melainabacteria group	Cyanobacteria	Nostocales	Rivulariaceae	Calothrix	Calothrix sp. 336/3
+1	root	cellular organisms	Bacteria	Terrabacteria group	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	Ktedonobacter	Ktedonobacter racemifer
+1	root	cellular organisms	Bacteria	Terrabacteria group	Chloroflexi	Chloroflexia	Chloroflexales	Chloroflexineae	Chloroflexaceae	Chloroflexus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Armatimonadetes	unclassified Armatimonadetes	Armatimonadetes bacterium CG2_30_59_28
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Thermoleophilia	Solirubrobacterales	Patulibacteraceae	Patulibacter	Patulibacter minatonensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Coriobacteriia	Eggerthellales	Eggerthellaceae	unclassified Eggerthellaceae	Eggerthellaceae bacterium AT8
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Coriobacteriia	Eggerthellales	Eggerthellaceae	Phoenicibacter	Phoenicibacter massiliensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Coriobacteriia	Eggerthellales	Eggerthellaceae	Enterorhabdus	Enterorhabdus caecimuris
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella	Olsenella sp. Marseille-P2300
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	unclassified Actinobacteria (class)	unclassified Actinobacteria (class) (miscellaneous)	marine actinobacterium MedAcidi-G2A
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinomadura	Actinomadura kijaniata
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Nonomuraea	Nonomuraea coxensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Nonomuraea
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Microbispora	Microbispora sp. GMKU363
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptosporangiales	Streptosporangiaceae	Microbispora
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptosporangiales	Nocardiopsaceae	Nocardiopsis	Nocardiopsis sinuspersici
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces venezuelae
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. cf386
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. S10(2016)
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. NRRL S-813
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. NRRL B-24484
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. CB01580
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. C
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. 303MFCol5.2
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. 2231.1
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces scabiei
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces rubellomurinus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces roseochromogenus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces rimosus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces nodosus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces lincolnensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces griseus group	Streptomyces griseus subgroup	Streptomyces griseus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces griseus group	Streptomyces anulatus subgroup	Streptomyces anulatus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces flavochromogenes
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces canus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptacidiphilus	Streptacidiphilus carbonis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Kitasatospora	Kitasatospora cheerisanensis	Kitasatospora cheerisanensis KCTC 2395
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Saccharothrix	Saccharothrix sp. ST-888
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Prauserella	Prauserella marina
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Kibdelosporangium	Kibdelosporangium phytohabitans
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Amycolatopsis	Amycolatopsis australiensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Amycolatopsis	Amycolatopsis alba
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Tessaracoccus	Tessaracoccus flavus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Tessaracoccus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Pimelobacter	Pimelobacter simplex
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp. Root190
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Aeromicrobium	Aeromicrobium erythreum
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Salinispora
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	Micromonospora rifamycinica
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	Micromonospora narathiwatensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	Micromonospora carbonacea
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Micromonospora	Micromonospora auratinigra
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Hamadaea	Hamadaea tsunoensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Asanoa	Asanoa ishikariensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Asanoa	Asanoa ferruginea
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Actinoplanes
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Promicromonosporaceae	Cellulosimicrobium	Cellulosimicrobium cellulans
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Promicromonosporaceae
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	Rothia mucilaginosa
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter sp. Soil764
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter crystallopoietes
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium testaceum
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium oxydans
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium hydrocarbonoxydans
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium gubbeenense
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium aurum
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Leifsonia	Leifsonia sp. NCR5
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Herbiconiux	Herbiconiux ginsengi
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Cryobacterium	Cryobacterium luteum
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Agreia	Agreia pratensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Serinicoccus
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Phycicoccus	Phycicoccus dokdonensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Ornithinimicrobium	Ornithinimicrobium sp. CNJ-824
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	Cellulomonas sp. B6
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas	Cellulomonas fimi
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Jiangellales	Jiangellaceae	Jiangella	Jiangella alkaliphila
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Geodermatophilales	Geodermatophilaceae	Blastococcus	Blastococcus sp. URHD0036
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Frankia
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	unclassified Corynebacteriales	Lawsonella	Lawsonella clevelandensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus sp. EPR-157
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus rhodnii
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia uniformis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia sp. CNY236
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia sp. 852002-20019_SCH5090214
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia niigatensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia farcinica
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia araoensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	Nocardia altamirensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium xenopi
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium terrae complex	Mycobacterium kumamotonense
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium sp. SCH
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium sp. AT1
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium sp. 1165196.3
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium smegmatis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium setense
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium komanii
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium kansasii
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium diernhoferi
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium celeriflavum
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium avium complex (MAC)	Mycobacterium avium	Mycobacterium avium subsp. avium	Mycobacterium avium subsp. avium 2285 (R)
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Hoyosella	Hoyosella altamirensis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Gordoniaceae	Skermania	Skermania piniformis
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Gordoniaceae	Gordonia	Gordonia paraffinivorans
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Gordoniaceae	Gordonia	Gordonia kroppenstedtii
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Gordoniaceae	Gordonia
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium sp. HMSC070E08
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Catenulisporales	Catenulisporaceae	Catenulispora	Catenulispora acidiphila
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium thermacidophilum
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium scardovii
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Varibaculum	Varibaculum timonense
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Arcanobacterium	Arcanobacterium sp. S3PF19
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum	Actinotignum schaalii
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces sp. VUL7
+1	root	cellular organisms	Bacteria	Terrabacteria group	Actinobacteria	Acidimicrobiia	Acidimicrobiales	Acidimicrobiaceae	Acidimicrobium	Acidimicrobium ferrooxidans	Acidimicrobium ferrooxidans DSM 10331
+1	root	cellular organisms	Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Cloacibacillus	Cloacibacillus porcorum
+1	root	cellular organisms	Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae
+1	root	cellular organisms	Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	Treponema denticola
+1	root	cellular organisms	Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Sediminispirochaeta	Sediminispirochaeta smaragdinae
+1	root	cellular organisms	Bacteria	Spirochaetes	Spirochaetia	Brachyspirales	Brachyspiraceae	Brachyspira	Brachyspira hampsonii
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	unclassified Helicobacteraceae	Helicobacteraceae bacterium 4484_230
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Helicobacter trogontum
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Sulfurospirillum	Sulfurospirillum arsenophilum
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter sp. RM16704
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter jejuni
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter coli
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	unclassified Deltaproteobacteria	unclassified Deltaproteobacteria (miscellaneous)	delta proteobacterium ML8_F1
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	unclassified Deltaproteobacteria	unclassified Deltaproteobacteria (miscellaneous)	Deltaproteobacteria bacterium RIFCSPLOWO2_02_44_9
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	unclassified Deltaproteobacteria	unclassified Deltaproteobacteria (miscellaneous)
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Syntrophobacterales	Syntrophobacteraceae	Desulfacinum	Desulfacinum hydrothermale
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Syntrophobacterales	Syntrophaceae	Desulfobacca	Desulfobacca sp. 4484_104
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Syntrophobacterales	Syntrophaceae	Desulfobacca	Desulfobacca acetoxidans
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Myxococcales	Nannocystineae	Nannocystaceae	Nannocystis	Nannocystis exedens
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Myxococcales	Cystobacterineae	Vulgatibacteraceae	Vulgatibacter	Vulgatibacter incomptus
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Myxococcales	Cystobacterineae	Archangiaceae	Hyalangium	Hyalangium minutum
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Myxococcales	Cystobacterineae	Archangiaceae	Cystobacter	Cystobacter fuscus
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio vulgaris
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	unclassified Desulfobacteraceae	Desulfobacteraceae bacterium 4572_87
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	unclassified Desulfobacteraceae	Desulfobacteraceae bacterium 4484_190.1
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfosarcina	Desulfosarcina sp. BuS5
+1	root	cellular organisms	Bacteria	Proteobacteria	delta/epsilon subdivisions	Deltaproteobacteria	Desulfobacterales	Desulfobacteraceae	Desulfobacterium	Desulfobacterium sp. 4572_20
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	unclassified Gammaproteobacteria	unclassified Gammaproteobacteria (miscellaneous)	methanotrophic bacterial endosymbiont of Bathymodiolus sp.
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	unclassified Gammaproteobacteria	unclassified Gammaproteobacteria (miscellaneous)	Gammaproteobacteria bacterium RIFCSPHIGHO2_12_FULL_41_20
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	unclassified Gammaproteobacteria	unclassified Gammaproteobacteria (miscellaneous)	Gammaproteobacteria bacterium 39-13
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	unclassified Gammaproteobacteria	unclassified Gammaproteobacteria (miscellaneous)	Gammaproteobacteria bacterium 13_2_20CM_66_19
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	unclassified Gammaproteobacteria	sulfur-oxidizing symbionts	Solemya velum gill symbiont
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	unclassified Gammaproteobacteria	sulfur-oxidizing symbionts	Candidatus Thiodiazotropha	Candidatus Thiodiazotropha endoloripes
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	unclassified Gammaproteobacteria	Gallaecimonas	Gallaecimonas pentaromativorans
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	unclassified Gammaproteobacteria	Candidatus Baumannia	Candidatus Baumannia cicadellinicola
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	unclassified Xanthomonadaceae	[Pseudomonas] geniculata	[Pseudomonas] geniculata N1
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas citri group	Xanthomonas citri	Xanthomonas citri subsp. citri	Xanthomonas axonopodis pv. citri str. 306
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas	Pseudoxanthomonas sp. Root630
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas	Pseudoxanthomonas indica
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Lysobacter	Lysobacter capsici
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Rhodanobacter	Rhodanobacter sp. Soil772
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Luteibacter	Luteibacter sp. UNCMF331Sha3.1
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Frateuria	Frateuria terrea
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio maritimus
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio harveyi group	Vibrio sp. AND4
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio harveyi group	Vibrio alginolyticus
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio caribbeanicus
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium sp. JCM 19050
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium halotolerans
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Enterovibrio	Enterovibrio norvegicus
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Aliivibrio	Aliivibrio fischeri
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Thiotrichales	unclassified Thiotrichales	unclassified Thiotrichales (miscellaneous)	Thiotrichales bacterium HS_08
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	Leucothrix	Leucothrix mucor
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Thiotrichales	Piscirickettsiaceae	Thiomicrospira	Thiomicrospira sp. CG2_30_44_34
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Thiotrichales	Piscirickettsiaceae	Piscirickettsia	Piscirickettsia litoralis
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Salinisphaerales	Salinisphaeraceae	Salinisphaera	Salinisphaera shabanensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas stutzeri group	Pseudomonas stutzeri subgroup	Pseudomonas stutzeri
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. P1.8
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. LFM046
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. CB1
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas peli
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas parafulva
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas moraviensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas knackmussii
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens group	Pseudomonas azotoformans
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa group	Pseudomonas citronellolis
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	Moraxella atlantae
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter sp. MN12
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus haemolyticus
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Thalassolituus	Thalassolituus oleivorans
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Neptunomonas	Neptunomonas phycophila
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Marinobacterium	Marinobacterium stanieri
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas	Halomonas subglaciescola
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Alcanivoracaceae	Alcanivorax	Alcanivorax dieselolei
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Alcanivoracaceae	Alcanivorax
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Nevskiales	Sinobacteraceae	Polycyclovorans	Polycyclovorans algicola
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Nevskiales	Sinobacteraceae	Nevskia	Nevskia soli
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Nevskiales	Sinobacteraceae	Hydrocarboniphaga	Hydrocarboniphaga effusa
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylomonas	Methylomonas methanica
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylomonas	Methylomonas koyamae
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methyloglobulus	Methyloglobulus morosus
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylococcus	Methylococcus capsulatus
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Tatlockia
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella santicrucis
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella quinlivanii
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella quateirensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella parisiensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella oakridgensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	Legionella anisa
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	unclassified Enterobacterales	Plesiomonas	Plesiomonas shigelloides
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Yersinia	Yersinia bercovieri
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Yersinia
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia	Serratia sp. M24T3
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia	Serratia marcescens
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia	Serratia fonticola
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	Xenorhabdus	Xenorhabdus beddingii
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	Xenorhabdus
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	Cosenzaea	Cosenzaea myxofaciens
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	Arsenophonus	Arsenophonus nasoniae
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Wigglesworthia	Wigglesworthia glossinidia
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Erwinia	Erwinia teleogrylli
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Erwinia	Erwinia billingiae
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	unclassified Enterobacteriaceae	unclassified Enterobacteriaceae (miscellaneous)	Enterobacteriaceae bacterium strain FGI 57
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Shigella	Shigella sonnei	Shigella sonnei 53G
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica serovar Typhimurium
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica serovar Reading
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica serovar Newport	Salmonella enterica subsp. enterica serovar Newport str. CDC 2010K-2159
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	Salmonella enterica subsp. enterica	Salmonella enterica subsp. enterica serovar Bovismorbificans
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kosakonia	Kosakonia cowanii
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella quasipneumoniae
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae	Klebsiella pneumoniae IS22
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella aerogenes
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Izhakiella
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli W26
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli UMEA 3212-1
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli PA23
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli P12b
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli O157:H7	Escherichia coli O157:H7 str. K5806
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli MS 124-1
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli KTE64
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli KTE233
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli ECA-0157
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli 8.0586
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli 3030-1
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli 1827-70
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli 1-250-04_S3_C1
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae complex	Enterobacter ludwigii
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae complex	Enterobacter cloacae complex 'Hoffmann cluster IV'
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Citrobacter	Citrobacter freundii complex	Citrobacter werkmanii
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Budviciaceae	Pragia	Pragia fontium
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Chromatiaceae	Marichromatium
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Halieaceae	Luminiphilus	Luminiphilus syltensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	Teredinibacter	Teredinibacter sp. 1162T.S.0a.05
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	unclassified Alteromonadales	gamma proteobacterium IMCC1989
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas agarivorans
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Ferrimonadaceae	Ferrimonas	Ferrimonas balearica
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Marinobacter
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Gayadomonas	Gayadomonas joobiniege
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Alteromonas	Alteromonas mediterranea	Alteromonas mediterranea 615
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Alteromonas	Alteromonas australica
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Alishewanella
+1	root	cellular organisms	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Aliagarivorans
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	unclassified Betaproteobacteria	unclassified Betaproteobacteria (miscellaneous)	Betaproteobacteria bacterium GR16-43
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Propionivibrio	Candidatus Propionivibrio aalborgensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosomonas
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria sp. oral taxon 020
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria flavescens
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Bergeriella	Bergeriella denitrificans
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Alysiella	Alysiella crassa
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Chromobacterium group	Chromobacterium	Chromobacterium sp. LK11
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Methylophilales	Methylophilaceae	Methylophilus	Methylophilus rhizosphaerae
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Methylophilales	Methylophilaceae	Methylobacillus	Methylobacillus sp. MM2
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Hydrogenophilales	unclassified Hydrogenophilales	Hydrogenophilales bacterium RIFOXYD1_FULL_62_11
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Hydrogenophilales	Hydrogenophilaceae	Tepidiphilus	Tepidiphilus thermophilus
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Hydrogenophilales
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Gallionellales	unclassified Gallionellales
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	unclassified Burkholderiales	Burkholderiales Genera incertae sedis	Thiomonas
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	unclassified Burkholderiales	Burkholderiales Genera incertae sedis	Rhizobacter	Rhizobacter sp. Root404
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	unclassified Burkholderiales	Burkholderiales Genera incertae sedis	Rhizobacter	Rhizobacter sp. Root1221
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	unclassified Burkholderiales	Burkholderiales Genera incertae sedis	Rhizobacter
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	unclassified Burkholderiales	Burkholderiales Genera incertae sedis	Aquincola	Aquincola tertiaricarbonis
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	unclassified Burkholderiales
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	unclassified Oxalobacteraceae	Oxalobacteraceae bacterium AB_14
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Pseudoduganella	Pseudoduganella violaceinigra
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Massilia sp. Leaf139
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Janthinobacterium	Janthinobacterium sp. CG3
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Janthinobacterium	Janthinobacterium agaricidamnosum
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Duganella	Duganella sacchari
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax sp. YR216
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax antarcticus
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Polaromonas	Polaromonas sp. EUR3 1.2.1
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Pelomonas	Pelomonas sp. Root1444
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga sp. LPB0072
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Giesbergeria	Giesbergeria anulus
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Delftia
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax sp. NO-1
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax sp. CF316
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax citrulli
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	Paraburkholderia sp. SOS3
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	Paraburkholderia mimosarum
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Pandoraea
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Candidatus Glomeribacter	Candidatus Glomeribacter gigasporarum
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Caballeronia	Caballeronia glathei
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia ubonensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. MSh2
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia cepacia complex	Burkholderia territorii
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Oligella	Oligella ureolytica
+1	root	cellular organisms	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Advenella
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingopyxis	Sphingopyxis sp. MWB1
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingopyxis
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas sp. S5-249
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium	Sphingobium cloacae
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	Novosphingobium subterraneum
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	Novosphingobium sp. AAP83
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	Novosphingobium rosa
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Porphyrobacter	Porphyrobacter sp. HL-46
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Porphyrobacter	Porphyrobacter mercurialis
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Erythrobacter	Erythrobacter marinus
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Altererythrobacter	Altererythrobacter ishigakiensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	Wolbachieae	Wolbachia
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Thalassobaculum
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Novispirillum	Novispirillum itersonii
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Magnetospirillum	Magnetospirillum sp. ME-1
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Inquilinus	Inquilinus limosus
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Elstera	Elstera litoralis
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Azospirillum	Azospirillum lipoferum
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Azospirillum
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Roseomonas	Roseomonas aerilata
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Neoasaia	Neoasaia chiangmaiensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Komagataeibacter	Komagataeibacter europaeus
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Belnapia	Belnapia moabensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acidisphaera	Acidisphaera rubrifaciens
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Yangia
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Sulfitobacter	Sulfitobacter sp. NAS-14.1
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Sulfitobacter	Sulfitobacter sp. HI0040
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Salipiger	Salipiger mucosus
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Roseivivax
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter	Rhodobacter sphaeroides
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Puniceibacterium	Puniceibacterium sp. IMCC21224
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pseudovibrio	Pseudovibrio hongkongensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pseudooceanicola	Pseudooceanicola batsensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Phaeobacter	Phaeobacter sp. P97
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	Paracoccus sp. TRP
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Loktanella	Loktanella sp. 3ANDIMAR09
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Labrenzia	Labrenzia sp. DG1229
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Cribrihabitans	Cribrihabitans marinus
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Celeribacter	Celeribacter baekdonensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Albimonas	Albimonas pacifica
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ahrensia	Ahrensia sp. R2A130
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	unclassified Rhizobiales	unclassified Rhizobiales (miscellaneous)	Rhizobiales bacterium CCH3-A5
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	unclassified Rhizobiales	unclassified Rhizobiales (miscellaneous)	Rhizobiales bacterium 65-79
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Starkeya	Starkeya novella
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium/Ensifer group	Sinorhizobium	Sinorhizobium sp. GL28
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Sinorhizobium/Ensifer group	Ensifer
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium/Agrobacterium group	Rhizobium	Rhizobium sp. Root482
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium/Agrobacterium group	Rhizobium	Rhizobium leguminosarum
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium/Agrobacterium group	Agrobacterium	Agrobacterium tumefaciens complex	Agrobacterium tumefaciens
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium/Agrobacterium group
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Nitratireductor	Nitratireductor pacificus
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Nitratireductor	Nitratireductor basaltis
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	Methylobacterium mesophilicum
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	Methylobacterium aquaticum
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	Bradyrhizobium sp. ORS 285
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	Bradyrhizobium sp. BR 10303
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	Bradyrhizobium sp. AS23.2
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	Bradyrhizobium japonicum
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bosea	Bosea sp. RAC05
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bosea	Bosea sp. OK403
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Afipia	Afipia sp. 62-7
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylocapsa	Methylocapsa aurea
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bartonellaceae	Bartonella	Bartonella bacilliformis
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Aurantimonadaceae	Aureimonas	Aureimonas sp. AU12
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Pelagibacterales	Pelagibacteraceae	Candidatus Pelagibacter
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Holosporales	Candidatus Paracaedibacteraceae	Candidatus Odyssella	Candidatus Odyssella thessalonicensis
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	Caulobacter vibrioides
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	Caulobacter sp. UNC358MFTsu5.1
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	Caulobacter sp. CCH9-E1
+1	root	cellular organisms	Bacteria	Proteobacteria	Alphaproteobacteria
+1	root	cellular organisms	Bacteria	Proteobacteria	Acidithiobacillia	Acidithiobacillales	Acidithiobacillaceae	Acidithiobacillus	Acidithiobacillus thiooxidans
+1	root	cellular organisms	Bacteria	PVC group	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Verrucomicrobium
+1	root	cellular organisms	Bacteria	PVC group	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Prosthecobacter	Prosthecobacter debontii
+1	root	cellular organisms	Bacteria	PVC group	Verrucomicrobia	Spartobacteria	Candidatus Xiphinematobacter	Candidatus Xiphinematobacter sp. Idaho Grape
+1	root	cellular organisms	Bacteria	PVC group	Verrucomicrobia	Opitutae	Opitutales	Opitutaceae	Lacunisphaera	Lacunisphaera limnophila
+1	root	cellular organisms	Bacteria	PVC group	Planctomycetes	Planctomycetia	Planctomycetales	unclassified Planctomycetales	unclassified Planctomycetales (miscellaneous)	Planctomycetales bacterium 71-10
+1	root	cellular organisms	Bacteria	PVC group	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	unclassified Planctomycetaceae	Planctomycetaceae bacterium FC18
+1	root	cellular organisms	Bacteria	PVC group	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Rubinisphaera	Rubinisphaera brasiliensis
+1	root	cellular organisms	Bacteria	PVC group	Planctomycetes	Planctomycetia	Planctomycetales	Gemmataceae	Gemmata	Gemmata sp. SH-PL17
+1	root	cellular organisms	Bacteria	PVC group	Lentisphaerae	Lentisphaeria	Lentisphaerales	Lentisphaeraceae	Lentisphaera	Lentisphaera araneosa
+1	root	cellular organisms	Bacteria	PVC group	Candidatus Omnitrophica	unclassified Candidatus Omnitrophica	Omnitrophica WOR_2 bacterium SM23_29
+1	root	cellular organisms	Bacteria	PVC group
+1	root	cellular organisms	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	Candidatus Nitrospira nitrosa
+1	root	cellular organisms	Bacteria	Nitrospinae/Tectomicrobia group	Candidatus Tectomicrobia	Candidatus Entotheonella	Candidatus Entotheonella sp. TSY2
+1	root	cellular organisms	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	environmental samples	Fusobacterium sp. CAG:815
+1	root	cellular organisms	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium
+1	root	cellular organisms	Bacteria	FCB group	Fibrobacteres	Chitinivibrionia	Chitinivibrionales	Chitinivibrionaceae	Chitinivibrio	Chitinivibrio alkaliphilus
+1	root	cellular organisms	Bacteria	FCB group	Candidatus Kryptonia	Candidatus Kryptonium	Candidatus Kryptonium thompsoni
+1	root	cellular organisms	Bacteria	FCB group	Candidatus Cloacimonetes	unclassified Candidatus Cloacimonetes	Candidatus Cloacimonetes bacterium 4572_55
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	unclassified Bacteroidetes	unclassified Bacteroidetes (miscellaneous)	Bacteroidetes bacterium RIFCSPLOWO2_12_FULL_31_6
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	unclassified Bacteroidetes	unclassified Bacteroidetes (miscellaneous)	Bacteroidetes bacterium GWA2_31_9
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	unclassified Bacteroidetes	unclassified Bacteroidetes (miscellaneous)	Bacteroidetes bacterium 43-16
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	environmental samples	unidentified eubacterium SCB49
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	unclassified Sphingobacteriales	unclassified Sphingobacteriales (miscellaneous)	Sphingobacteriales bacterium 44-15
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	Sphingobacterium sp. 21
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pseudosphingobacterium	Pseudosphingobacterium domesticum
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	Pedobacter sp. R20-19
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	Pedobacter sp. Hv1
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	Pedobacter borealis
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Saprospiria	Saprospirales	Lewinellaceae	Lewinella	Lewinella sp. 4G2
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Zunongwangia	Zunongwangia mangrovi
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Ulvibacter	Ulvibacter sp. LPB0005
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Riemerella	Riemerella columbipharyngis
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Maribacter	Maribacter sp. HTCC2170
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium swingsii
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium subsaxonicum
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium filum
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Chryseobacterium	Chryseobacterium vrystaatense
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Chryseobacterium	Chryseobacterium taichungense
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Chryseobacterium	Chryseobacterium carnipullorum
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Chishuiella	Chishuiella changwenlii
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Cellulophaga	Cellulophaga sp. Hel_I_12
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Cellulophaga	Cellulophaga baltica
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Crocinitomicaceae	Crocinitomix	Crocinitomix catalasitica
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Cytophagia	Cytophagales	Hymenobacteraceae	Rufibacter	Rufibacter tibetensis
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Cytophagia	Cytophagales	Hymenobacteraceae	Pontibacter
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Cytophagia	Cytophagales	Hymenobacteraceae	Hymenobacter	Hymenobacter sp. CCM 8648
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Runella	Runella zeae
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Leadbetterella	Leadbetterella byssophila
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Flectobacillus	Flectobacillus major
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Dyadobacter	Dyadobacter alkalitolerans
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Cytophaga	Cytophaga hutchinsonii
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Anditalea	Anditalea andensis
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Cytophagia	Cytophagales	Cyclobacteriaceae	Algoriphagus	Algoriphagus sp. am2
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Cytophagia	Cytophagales	Cyclobacteriaceae	Algoriphagus	Algoriphagus marincola
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Chitinophagia	Chitinophagales	Chitinophagaceae	Filimonas	Filimonas lacunae
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Chitinophagia	Chitinophagales	Chitinophagaceae	Chitinophaga	Chitinophaga rupis
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Marinilabiliales	Prolixibacteraceae	Draconibacterium
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Marinilabiliales	Marinilabiliaceae	Labilibacter	Labilibacter aurantiacus
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	unclassified Bacteroidales	unclassified Bacteroidales (miscellaneous)	Bacteroidales bacterium WCE2008
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenella	Rikenella microfusus
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes sp. CHKCI003
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes sp. 58_9_plus
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	unclassified Prevotellaceae	Prevotellaceae bacterium HUN156
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella maculosa
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella denticola
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella bivia
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	Parabacteroides merdae
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	environmental samples	Bacteroides sp. CAG:770
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	environmental samples	Bacteroides sp. CAG:702
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides xylanisolvens	Bacteroides xylanisolvens XB1A
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides uniformis
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides
+1	root	cellular organisms	Bacteria	FCB group	Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidetes Order II. Incertae sedis	Rhodothermaceae	Rhodothermus	Rhodothermus profundi
+1	root	cellular organisms	Bacteria	Elusimicrobia	unclassified Elusimicrobia	Elusimicrobia bacterium GWA2_69_24
+1	root	cellular organisms	Bacteria	Acidobacteria	unclassified Acidobacteria	unclassified Acidobacteria (miscellaneous)	Acidobacteria bacterium 13_1_40CM_4_57_6
+1	root	cellular organisms	Bacteria	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Terriglobus	Terriglobus saanensis
+1	root	cellular organisms	Archaea	unclassified Archaea	unclassified Archaea (miscellaneous)	archaeon RBG_16_50_20
+1	root	cellular organisms	Archaea	TACK group	Thaumarchaeota	Nitrososphaeria	Nitrososphaerales	Nitrososphaeraceae	Nitrososphaera
+1	root	cellular organisms	Archaea	Euryarchaeota	unclassified Euryarchaeota	unclassified Euryarchaeota (miscellaneous)	Euryarchaeota archaeon HMET1
+1	root	cellular organisms	Archaea	Euryarchaeota	unclassified Euryarchaeota	Marine Group II	environmental samples	uncultured marine group II euryarchaeote
+1	root	cellular organisms	Archaea	Euryarchaeota	environmental samples	uncultured marine group II/III euryarchaeote KM3_113_E08
+1	root	cellular organisms	Archaea	Euryarchaeota	Thermococci	Thermococcales	Thermococcaceae	Thermococcus	Thermococcus thioreducens
+1	root	cellular organisms	Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanolobus	Methanolobus psychrophilus
+1	root	cellular organisms	Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanohalophilus	Methanohalophilus halophilus
+1	root	cellular organisms	Archaea	Euryarchaeota	Methanomicrobia	Methanocellales	Methanocellaceae	Methanocella	Methanocella arvoryzae
+1	root	cellular organisms	Archaea	Euryarchaeota	Methanococci	Methanococcales	Methanocaldococcaceae	Methanocaldococcus	Methanocaldococcus sp. FS406-22
+1	root	cellular organisms	Archaea	Euryarchaeota	Methanococci	Methanococcales	Methanocaldococcaceae	Methanocaldococcus	Methanocaldococcus fervens
+1	root	cellular organisms	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	Methanobrevibacter sp. YE315
+1	root	cellular organisms	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	Methanobrevibacter filiformis
+1	root	cellular organisms	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter
+1	root	cellular organisms	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium	Methanobacterium sp. Maddingley MBC34
+1	root	cellular organisms	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium
+1	root	cellular organisms	Archaea	Euryarchaeota	Halobacteria	Haloferacales	Halorubraceae	Halorubrum
+1	root	cellular organisms	Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Haloarculaceae	Halorhabdus	Halorhabdus tiamatea
+1	root	cellular organisms	Archaea	Euryarchaeota	Halobacteria
+1	root	cellular organisms	Archaea	DPANN group	Candidatus Micrarchaeota	Candidatus Micrarchaeum	Candidatus Micrarchaeum acidiphilum	Candidatus Micrarchaeum acidiphilum ARMAN-2
+1	root	cellular organisms	Archaea	Asgard group	Candidatus Thorarchaeota	Candidatus Thorarchaeota archaeon SMTZ1-83
+1	root	Viruses	ssRNA viruses	ssRNA positive-strand viruses, no DNA stage	Picornavirales	Picornaviridae	Enterovirus	Enterovirus C	Coxsackievirus A18
+1	root	Viruses	ssRNA viruses	ssRNA positive-strand viruses, no DNA stage	Nidovirales	Arteriviridae	unclassified Arteriviridae	Porcine reproductive and respiratory syndrome virus
+1	root	Viruses	dsRNA viruses	Reoviridae	Sedoreovirinae	Rotavirus	Rotavirus A	Rotavirus G1	Rotavirus G195C
+1	root	Viruses	dsDNA viruses, no RNA stage	Poxviridae	Chordopoxvirinae	Parapoxvirus	Bovine papular stomatitis virus
+1	root	Viruses	dsDNA viruses, no RNA stage	Poxviridae	Chordopoxvirinae	Avipoxvirus
+1	root	Viruses	dsDNA viruses, no RNA stage	Iridoviridae	Megalocytivirus	Infectious spleen and kidney necrosis virus
+1	root	Viruses	dsDNA viruses, no RNA stage	Caudovirales	Siphoviridae	unclassified Siphoviridae	Synechococcus phage S-CBS4
+1	root	Viruses	dsDNA viruses, no RNA stage	Caudovirales	Podoviridae	N4virus	unclassified N4likevirus	Pseudoalteromonas phage pYD6-A
+1	root	Viruses	dsDNA viruses, no RNA stage	Caudovirales	Myoviridae	unclassified Myoviridae	Erwinia phage ENT90
+17008	Unclassified
